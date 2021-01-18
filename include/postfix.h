@@ -6,4 +6,4 @@
 bool isOperator(char c);
 int getPriority(char C);
 std::string infix2postfix(std::string infix);
-#endif // INCLUDE_POSTFIX_H_
+#endif //  INCLUDE_POSTFIX_H_

@@ -50,7 +50,7 @@ class MyStack {
     bool isEmpty() {
         if (position == 0) {
             return true;
-        };
+        }
         return false;
     }
 };
